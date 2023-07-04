@@ -22,7 +22,7 @@ dependencies:
     git:
       url: https://github.com/opiumfive/packages
       path: packages/camera/camera
-      ref: master
+      ref: main
   ffi: ^1.0.0
   image: ^3.0.2
 dev_dependencies:
