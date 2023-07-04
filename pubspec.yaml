@@ -18,7 +18,11 @@ dependencies:
       url: https://github.com/opiumfive/tflite_flutter_plugin
       ref: master
   tuple: ^2.0.0
-  camera: ^0.10.0
+  camera:
+    git:
+      url: https://github.com/opiumfive/packages
+      path: packages/camera/camera
+      ref: master
   ffi: ^1.0.0
   image: ^3.0.2
 dev_dependencies:
